@@ -67,12 +67,6 @@ Computer vision is all about enabling machines to interpret and understand visua
 
 ---
 
-## 📸 Sample Outputs
-
-*(Add screenshots or GIFs here if you want recruiters to actually care instead of scrolling past your repo like it’s spam)*
-
----
-
 ## ⚙️ Installation
 
 ```bash
