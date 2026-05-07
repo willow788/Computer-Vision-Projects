@@ -1,0 +1,17 @@
+# Core
+numpy>=1.22
+opencv-python>=4.7
+
+# Utilities
+imutils>=0.5.4
+pandas>=1.5
+matplotlib>=3.7
+Pillow>=9.5
+
+# MediaPipe-based projects
+# Note: Some scripts in this repo expect the "Solutions" API (mp.solutions).
+# Newer MediaPipe builds may expose only the Tasks API; pin to a compatible version.
+mediapipe<0.10.20
+
+# System interaction
+screen-brightness-control>=0.18
